@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,iBACI,qBAAc,CAAd,aACJ,CAEA,QACI,cAAe,CACf,QACJ,CAEA,0CACE,UACF","file":"main.491f241a.chunk.css","sourcesContent":[".navbar-collapse{\r\n    flex-grow: 0.5;\r\n}\r\n\r\n.footer {\r\n    position: fixed;\r\n    bottom: 0;\r\n}\r\n\r\n.navbar-light .navbar-nav .nav-link:hover {\r\n  color: black;\r\n}"]}
